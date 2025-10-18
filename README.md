@@ -8,8 +8,9 @@ The analysis process integrates **Excel**, **SQL**, and **Power BI** to ensure a
 
 ## 🧠 Tools Used  
 - **Excel** – for data cleaning and preprocessing  
-- **SQL** – for data exploration and aggregation  
-- **Power BI** – for dashboard design, visualization, and insight reporting  
+- **SQL** – for data exploration and aggregation
+- **Python** – for data validation, exploratory analysis, and generating insights before visualization  
+- **Power BI** – for dashboard design, visualization, and insight reporting
 
 ---
 
@@ -21,7 +22,11 @@ The analysis process integrates **Excel**, **SQL**, and **Power BI** to ensure a
 3. **Power BI:**  
    - Built four interactive pages showing sales, profit, regional performance, and customer insights.  
    - Added slicers and filters for dynamic exploration (Year, Category, Ship Mode).  
-   - Designed KPIs and charts for clear storytelling.  
+   - Designed KPIs and charts for clear storytelling.
+4. **Python:**
+   - Used for additional data validation and insight generation
+   - Script: `superstore.py`
+
 
 ---
 
